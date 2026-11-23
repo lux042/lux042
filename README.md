@@ -20,7 +20,7 @@ A location-aware restaurant wish-list and dining journal in development, combini
 An archival research project combining automated National Archives document collection, OCR, and OpenAI-powered natural-language querying of JFK records.
 
 ### [Home Lab](https://github.com/lux042/homelab)
-Self-hosted infrastructure built around accessible digital resources, responsible data stewardship, and secure private access. Documents a UGREEN NAS environment with Docker, Linux, Tailscale, Jellyfin, Calibre, and Calibre-Web.
+Community-facing self-hosted infrastructure built around accessible digital resources, responsible data stewardship, and secure access. Documents a UGREEN NAS environment with Docker, Linux, Tailscale, Jellyfin, Calibre, and Calibre-Web.
 
 ## Technical Skills
 
