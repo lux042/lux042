@@ -16,7 +16,7 @@ Native iOS and iPadOS research companion built with SwiftUI, SwiftData, and WebK
 ### [Forage](https://github.com/lux042/forage)
 A location-aware restaurant wish-list and dining journal in development, combining restaurant discovery, proximity notifications, and personal dining experiences.
 
-### JFK Reader
+### [JFK Reader](https://github.com/lux042/JFK-Reader)
 An archival research project combining automated National Archives document collection, OCR, and OpenAI-powered natural-language querying of JFK records.
 
 ## Technical Skills
