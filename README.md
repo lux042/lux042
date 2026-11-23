@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**lux042/lux042** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Grace!
 
-Here are some ideas to get you started:
+I'm a software developer and researcher based in St. Louis, Missouri, with a background in English and a passion for building technology that makes information more accessible.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work spans cross-platform application development, research automation, AI-assisted document analysis, and self-hosted infrastructure.
+
+## Featured Projects
+
+### [sunBEAR](https://github.com/lux042/sunBEAR)
+Cross-platform archival research software for macOS and Windows. Integrates seven research sources and automates document discovery, metadata extraction, PDF collection, and research organization.
+
+### [pocket-sunBEAR](https://github.com/lux042/pocket-sunBEAR)
+Native iOS and iPadOS research companion built with SwiftUI, SwiftData, and WebKit, featuring document collection, local research storage, and research exports.
+
+### [Forage](https://github.com/lux042/forage)
+A location-aware restaurant wish-list and dining journal in development, combining restaurant discovery, proximity notifications, and personal dining experiences.
+
+### JFK Reader
+An archival research project combining automated National Archives document collection, OCR, and OpenAI-powered natural-language querying of JFK records.
+
+## Technical Skills
+
+**Languages:** Swift, C#, Python, GML, HTML, CSS
+
+**Development:** SwiftUI, SwiftData, WebKit, .NET 8, Playwright, Tkinter, Git
+
+**Data & AI:** JSON, CSV, OCR, PDF processing, OpenAI integration
+
+**Infrastructure:** Docker, Linux, SSH, Tailscale, HTTPS, DNS, reverse proxies
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/grace-brueggemann/)
