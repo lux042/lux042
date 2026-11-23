@@ -1,5 +1,5 @@
 
-# Hi, I'm Grace!
+# Hi, I'm grace!
 
 I'm a software developer and researcher based in St. Louis, Missouri, with a background in English and a passion for building technology that makes information more accessible.
 
